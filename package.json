@@ -1,0 +1,17 @@
+{
+  "name": "readlinetask",
+  "version": "1.0.0",
+  "description": "this folder is for perform actions to the file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "api",
+    "test",
+    "readline"
+  ],
+  "author": "vire",
+  "license": "ISC"
+}
